@@ -25,3 +25,6 @@
 [submodule "modules/burnSummaries"]
 	path = modules/burnSummaries
 	url = https://github.com/PredictiveEcology/burnSummaries
+[submodule "modules/Biomass_regeneration"]
+	path = modules/Biomass_regeneration
+	url = https://github.com/PredictiveEcology/Biomass_regeneration
