@@ -19,3 +19,9 @@
 [submodule "modules/HSI_Caribou_MB"]
 	path = modules/HSI_Caribou_MB
 	url = https://github.com/FOR-CAST/HSI_Caribou_MB
+[submodule "modules/LandWeb_summary"]
+	path = modules/LandWeb_summary
+	url = https://github.com/PredictiveEcology/LandWeb_summary
+[submodule "modules/burnSummaries"]
+	path = modules/burnSummaries
+	url = https://github.com/PredictiveEcology/burnSummaries
