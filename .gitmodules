@@ -1,0 +1,18 @@
+[submodule "modules/LandWeb_preamble"]
+	path = modules/LandWeb_preamble
+	url = https://github.com/PredictiveEcology/LandWeb_preamble
+[submodule "modules/Biomass_speciesData"]
+	path = modules/Biomass_speciesData
+	url = https://github.com/PredictiveEcology/Biomass_speciesData
+[submodule "modules/Biomass_borealDataPrep"]
+	path = modules/Biomass_borealDataPrep
+	url = https://github.com/PredictiveEcology/Biomass_borealDataPrep
+[submodule "modules/LandMine"]
+	path = modules/LandMine
+	url = https://github.com/PredictiveEcology/LandMine
+[submodule "modules/LandWeb_output"]
+	path = modules/LandWeb_output
+	url = https://github.com/PredictiveEcology/LandWeb_output
+[submodule "modules/timeSinceFire"]
+	path = modules/timeSinceFire
+	url = https://github.com/PredictiveEcology/timeSinceFire
